@@ -39,6 +39,15 @@
             </BuildableReference>
          </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "30F0FD571EDD6FE6000E9A12"
+            BuildableName = "FastlaneExampleTests.xctest"
+            BlueprintName = "FastlaneExampleTests"
+            ReferencedContainer = "container:FastlaneExample.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -70,15 +79,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "30F0FD571EDD6FE6000E9A12"
-            BuildableName = "FastlaneExampleTests.xctest"
-            BlueprintName = "FastlaneExampleTests"
-            ReferencedContainer = "container:FastlaneExample.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

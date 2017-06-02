@@ -4,4 +4,4 @@ install:
   - bundle install
 script:
   - bundle exec fastlane test
-  - bundle exec fastlane ui_test
+  - bundle exec fastlane uitest
